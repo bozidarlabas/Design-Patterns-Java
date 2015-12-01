@@ -20,8 +20,5 @@ public class App {
         stopState.doAction(context);
         System.out.println(context.getState().toString());
 
-
-
-
     }
 }
