@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/state/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/template/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strategy/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/memento/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
