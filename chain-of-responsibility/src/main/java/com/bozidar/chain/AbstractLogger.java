@@ -1,8 +1,9 @@
-package com.bozidar.designpatterns;
+package com.bozidar.chain;
 
 /**
  * Created by bozidar on 01.12.2015..
  */
+//Handler
 public abstract class AbstractLogger {
     public static int INFO = 1;
     public static int DEBUG = 2;

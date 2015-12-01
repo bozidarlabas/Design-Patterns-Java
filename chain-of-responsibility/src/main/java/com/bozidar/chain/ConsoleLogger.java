@@ -1,8 +1,9 @@
-package com.bozidar.designpatterns;
+package com.bozidar.chain;
 
 /**
  * Created by bozidar on 01.12.2015..
  */
+//Concrete Handler
 public class ConsoleLogger extends AbstractLogger {
 
     public ConsoleLogger(int level){

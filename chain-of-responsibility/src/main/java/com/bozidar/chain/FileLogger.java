@@ -1,8 +1,9 @@
-package com.bozidar.designpatterns;
+package com.bozidar.chain;
 
 /**
  * Created by bozidar on 01.12.2015..
  */
+//Concrete Handler
 public class FileLogger extends AbstractLogger {
     public FileLogger(int level){
         this.level = level;
