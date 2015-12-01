@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/design_patterns/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iterator/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/observer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
